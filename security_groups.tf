@@ -28,5 +28,4 @@ resource "aws_security_group" "instances" {
     "Project"     = "DPG"
     "Environment" = var.env
   }
-
 }
